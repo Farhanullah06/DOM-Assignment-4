@@ -1,0 +1,15 @@
+/* Task 1 start */
+.highlight{
+    color: red;
+}
+/* Task 1 ENd */
+
+.active0-Btn{
+    background: green;
+    color: white;
+}
+
+.dark-mode{
+    background: #000;
+    color: white;
+}
